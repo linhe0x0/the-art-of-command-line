@@ -1,0 +1,11 @@
+{ 
+    "title": "The art of command line",
+    "author": "sqrtthree <sqrtthree@foxmail.com>",
+    "description": "This is such a great book!",
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "Custom link name": "https://customlink.com"
+        }
+    }
+}
