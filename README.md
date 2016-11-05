@@ -4,6 +4,10 @@
 
 本文是一份我在 MacOS 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。
 
+## 在线阅读
+
+[The art of command line](https://sqrtthree.gitbooks.io/the-art-of-command-line/content/)
+
 ## 更多资源
 
 - [awesome-shell](https://github.com/alebcay/awesome-shell)：一份精心组织的命令行工具及资源的列表。
