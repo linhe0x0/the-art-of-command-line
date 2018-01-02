@@ -39,3 +39,4 @@ this is the summary of my book.
     * [find](search/find.md)
     * [mdfind](search/mdfind.md)
     * [ag](search/ag.md)
+    * [cloc](search/cloc.md)

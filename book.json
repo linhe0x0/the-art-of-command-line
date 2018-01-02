@@ -1,11 +1,26 @@
-{ 
-    "title": "The art of command line",
-    "author": "sqrtthree <sqrtthree@foxmail.com>",
-    "description": "This is such a great book!",
-    "language": "zh-hans",
-    "links": {
-        "sidebar": {
-            " 我的博客": "http://blog.sqrtthree.com/"
-        }
+{
+  "title": "The art of command line",
+  "author": "sqrtthree <sqrtthree@foxmail.com>",
+  "description": "This is such a great book!",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "我的博客": "http://blog.sqrtthree.com/"
     }
+  },
+  "plugins": ["github", "github-edit"],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/sqrthree/the-art-of-command-line"
+    },
+    "github-edit": {
+      "repo": "sqrthree/the-art-of-command-line",
+      "branch": "master"
+    },
+    "sharing": {
+      "twitter": true,
+      "weibo": true,
+      "facebook": false
+    }
+  }
 }
